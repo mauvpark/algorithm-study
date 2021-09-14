@@ -16,5 +16,5 @@ Self Avoiding Walk는 스스로 중복된 길을 가지 않고 맵을 탐험하�
 6. 더이상 이동할 곳이 존재하지 않아 `Array`에 등록된 `element`가 존재하지 않을 경우 최근의 이동 값을 삭제하고 그 이전의 값으로 이동
 7. `path`와 `grid` `item`의 갯수가 같아지면 맵의 모든 지형을 탐색한 것이 되므로 종료
 
-## *Reference*
+## Reference
 [The Coding Train](https://www.youtube.com/watch?v=m6-cm6GZ1iw)
